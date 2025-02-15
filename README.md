@@ -17,4 +17,4 @@ Welcome to my personal portfolio! This project showcases my skills, projects, an
 ## 🚀 How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yashchavan24.github.io/MY-Portfolio/
+   git clone https://github.com/yashchavan24.github.io/MY-Portfolio.git
